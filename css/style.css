@@ -1,0 +1,22 @@
+.space{
+border-top: 4px solid rgba(0,0,0,.1);
+background-color: #7d97ad;
+}
+.w-15{
+width: 15%!important;
+}
+.titleText{
+color: #2d3c49;
+}
+
+.rectangular {
+  -webkit-clip-path: inset(30px 10px 30px 10px);
+  clip-path: inset(30px 10px 30px 10px);
+}
+.features{
+color:#7d97ad;
+}
+
+img, embed, object, video {
+max-width:100%
+}
